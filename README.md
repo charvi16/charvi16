@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Charvi Agarwal</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Engineering Student passionate about Software Development and Problem Solving</h3>
+
+- 🔭 I’m currently working on **multiple exciting projects**
+
+- 🌱 I’m currently learning **DSA**
+
+- 📫 How to reach me **charviagarwal2004@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
