@@ -14,7 +14,23 @@
 
 ###
 
-<h3 align="left">{<br>     "name": "Charvi Agarwal",<br>     "role": "Full-Stack Developer | ML      Engineer | FinTech Builder",<br>     "mission": "Build AI-driven systems that actually solve real problems",<br>     "currentProjects": [<br>         "FinTrackAI (AI-powered finance OS)",<br>         "HeartGuard Predictor",<br>         "EmotionSense"<br>     ],<br>     "learning": ["LLMs", "System  Design", "Quant Finance"],<br>    "superpower": "Shipping ambitious projects end-to-end ⚡"<br>}</h3>
+<h3 align="left">
+<pre>
+{
+    "name": "Charvi Agarwal",
+    "role": "Full-Stack Developer | ML Engineer | FinTech Builder",
+    "mission": "Build AI-driven systems that actually solve real problems",
+    "currentProjects": [
+        "FinTrackAI (AI-powered finance OS)",
+        "HeartGuard Predictor",
+        "EmotionSense"
+    ],
+    "learning": ["LLMs", "System Design", "Quant Finance"],
+    "superpower": "Shipping ambitious projects end-to-end ⚡"
+}
+</pre>
+</h3>
+
 
 ###
 
@@ -94,14 +110,6 @@
   <img src="https://streak-stats.demolab.com?user=charvi16&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=charvi16&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/charvi16/charvi16/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/charvi16/charvi16/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/charvi16/charvi16/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
